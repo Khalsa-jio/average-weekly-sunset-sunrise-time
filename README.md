@@ -1,0 +1,1 @@
+This script can help to get average sunset and sunrise time for an year, we can provide the lan/lat of place of which we want those data, it is using `https://api.sunrise-sunset.org/json` to retrieve the data. so Kudos to the owner of that project 
